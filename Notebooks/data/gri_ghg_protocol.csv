@@ -1,0 +1,103 @@
+﻿ID,TYPE,PARENT,NAME,SOURCE,TARGET,REFERENCE_MODEL_ID,TERM_ID,LABEL,,PROPERTIES:,Description,Required?,Quant_Qual
+34cb5a35-0694-406d-990e-9eaa6b321880,Layer,,GRI 305 Emissions,,,,,,,,,,
+8c040a69-2802-449e-b92c-8fcacb240517,Object,34cb5a35-0694-406d-990e-9eaa6b321880,Disclosure 305-1,,,,,,,,,,
+4c094eca-bc6d-43e7-947e-232982a1ac39,Attribute,8c040a69-2802-449e-b92c-8fcacb240517,Direct (Scope 1) GHG emissions,,76dc21f8-6015-49dd-8b8c-911dd20e72f1,,,,,,"The reporting organization shall report the following information: a. Gross direct (Scope 1) GHG emissions in metric tons of CO2 equivalent. b. Gases included in the calculation; whether CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, or all. c. Biogenic CO2 emissions in metric tons of CO2 equivalent. d. Base year for the calculation, if applicable, including: i. the rationale for choosing it; ii. emissions in the base year; iii. the context for any significant changes in emissions that triggered recalculations of base year emissions. e. Source of the emission factors and the global warming potential (GWP) rates used, or a reference to the GWP source. f. Consolidation approach for emissions; whether equity share, financial control, or operational control. g. Standards, methodologies, assumptions, and/or calculation tools used.",,
+99688868-3a0e-4a30-922d-3a834c97c26c,Transition,,,4c094eca-bc6d-43e7-947e-232982a1ac39,76dc21f8-6015-49dd-8b8c-911dd20e72f1,,,,,,,,
+f753e076-f7ec-474e-a495-2593f2c1ea75,Object,34cb5a35-0694-406d-990e-9eaa6b321880,Disclosure 305-2,,,,,,,,,,
+8d4779f2-273c-45d6-a864-0c1a45964802,Attribute,f753e076-f7ec-474e-a495-2593f2c1ea75,Energy indirect (Scope 2) GHG emissions,,68cf0909-6732-4742-8a04-25f1d14146a7,,,,,,"The reporting organization shall report the following information: a. Gross location-based energy indirect (Scope 2) GHG emissions in metric tons of CO2 equivalent. b. If applicable, gross market-based energy indirect (Scope 2) GHG emissions in metric tons of CO2 equivalent. c. If available, the gases included in the calculation; whether CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, or all. d. Base year for the calculation, if applicable, including: i. the rationale for choosing it; ii. emissions in the base year; iii. the context for any significant changes in emissions that triggered recalculations of base year emissions. e. Source of the emission factors and the global warming potential (GWP) rates used, or a reference to the GWP source. f. Consolidation approach for emissions; whether equity share, financial control, or operational control. g. Standards, methodologies, assumptions, and/or calculation tools used",,
+96c493e3-bce6-4c61-99f4-b647b1974878,Transition,,,8d4779f2-273c-45d6-a864-0c1a45964802,68cf0909-6732-4742-8a04-25f1d14146a7,,,,,,,,
+285e6a63-2c60-4ba4-85c2-7fb48fd76aed,Object,34cb5a35-0694-406d-990e-9eaa6b321880,Disclosure 305-3,,,,,,,,,,
+7001f972-19f7-4eb6-8f61-29330a203a35,Attribute,285e6a63-2c60-4ba4-85c2-7fb48fd76aed,Other indirect (Scope 3) GHG emissions,,6104445e-0239-40fa-9d07-b80d4ce7035a,,,,,,"The reporting organization shall report the following information: a. Gross other indirect (Scope 3) GHG emissions in metric tons of CO2 equivalent. b. If available, the gases included in the calculation; whether CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, or all. c. Biogenic CO2 emissions in metric tons of CO2 equivalent. d. Other indirect (Scope 3) GHG emissions categories and activities included in the calculation. e. Base year for the calculation, if applicable, including: i. the rationale for choosing it; ii. emissions in the base year; iii. the context for any significant changes in emissions that triggered recalculations of base year emissions. f. Source of the emission factors and the global warming potential (GWP) rates used, or a reference to the GWP source. g. Standards, methodologies, assumptions, and/or calculation tools used",,
+525f952a-a028-4fa3-bd6d-2767c54e5e7f,Transition,,,7001f972-19f7-4eb6-8f61-29330a203a35,6104445e-0239-40fa-9d07-b80d4ce7035a,,,,,,,,
+e8c8295e-7a71-4511-9002-5b5f6aaa30f3,Object,34cb5a35-0694-406d-990e-9eaa6b321880,Disclosure 305-4,,,,,,,,,,
+dd3482cb-9eac-4c0d-911a-6ee81559fd52,Attribute,e8c8295e-7a71-4511-9002-5b5f6aaa30f3,GHG emissions intensity,,76dc21f8-6015-49dd-8b8c-911dd20e72f1,,,,,,"The reporting organization shall report the following information: a. GHG emissions intensity ratio for the organization. b. Organization-specific metric (the denominator) chosen to calculate the ratio. c. Types of GHG emissions included in the intensity ratio; whether direct (Scope 1), energy indirect (Scope 2), and/or other indirect (Scope 3). d. Gases included in the calculation; whether CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, or all",,
+62086838-3a1c-4d51-b2b0-ab955a20558a,Transition,,,dd3482cb-9eac-4c0d-911a-6ee81559fd52,76dc21f8-6015-49dd-8b8c-911dd20e72f1,,,,,,,,
+ab3d5e87-1b81-4795-a820-70dcbc50530b,Object,34cb5a35-0694-406d-990e-9eaa6b321880,Disclosure 305-5,,,,,,,,,,
+dfa9fd35-f1fc-4f64-842c-c6eb018bc65b,Attribute,ab3d5e87-1b81-4795-a820-70dcbc50530b,Reduction of GHG emissions,,9908acec-1074-4df5-aab0-518f57c78700,,,,,,"The reporting organization shall report the following information: a. GHG emissions reduced as a direct result of reduction initiatives, in metric tons of CO2 equivalent. b. Gases included in the calculation; whether CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, or all. c. Base year or baseline, including the rationale for choosing it. d. Scopes in which reductions took place; whether direct (Scope 1), energy indirect (Scope 2), and/or other indirect (Scope 3). e. Standards, methodologies, assumptions, and/or calculation tools used.",,
+c7786cdc-0c13-4736-9571-c11912c5176d,Transition,,,dfa9fd35-f1fc-4f64-842c-c6eb018bc65b,9908acec-1074-4df5-aab0-518f57c78700,,,,,,,,
+6013be23-f632-4e85-b19d-56534aa1d2bf,Object,34cb5a35-0694-406d-990e-9eaa6b321880,Disclosure 305-6,,,,,,,,,,
+ba093de5-bb43-4280-aab3-7ec970270be7,Attribute,6013be23-f632-4e85-b19d-56534aa1d2bf,Emissions of ozone-depleting substances (ODS),,,,,,,,"The reporting organization shall report the following information: a. Production, imports, and exports of ODS in metric tons of CFC-11 (trichlorofluoromethane) equivalent. b. Substances included in the calculation. c. Source of the emission factors used. d. Standards, methodologies, assumptions, and/or calculation tools used.",,
+cc0e7a2f-40e9-4696-a487-c82a051a803f,Object,34cb5a35-0694-406d-990e-9eaa6b321880,Disclosure 305-7,,,,,,,,,,
+282f811c-5a83-4be0-b1ab-9e416ac63edc,Attribute,cc0e7a2f-40e9-4696-a487-c82a051a803f,"Nitrogen oxides (NOX), sulfur oxides (SOX), and other significant air emissions",,,,,,,,"The reporting organization shall report the following information: a. Significant air emissions, in kilograms or multiples, for each of the following: i. NOX ii. SOX iii. Persistent organic pollutants (POP) iv. Volatile organic compounds (VOC) v. Hazardous air pollutants (HAP) vi. Particulate matter (PM) vii. Other standard categories of air emissions identified in relevant regulations b. Source of the emission factors used. c. Standards, methodologies, assumptions, and/or calculation tools used.",,
+3acf07a3-c428-468e-82a5-f142c0606356,Layer,,GHG Protocol - Sample Emissions Inventory Reporting Template,,,,,,,,,,
+bd333b52-f544-4a46-bc16-4496eb04c5d0,Object,3acf07a3-c428-468e-82a5-f142c0606356,Information on Emissions,,,,,,,,,,
+4819439d-eab4-4333-a8d3-264f168153fa,Group,bd333b52-f544-4a46-bc16-4496eb04c5d0,"Current year emissions (independent of any GHG trades such as sales, purchases, transfers, or banking of allowances)",,,,,,,,,Yes,Quantitative
+b7bb62a7-d507-4e26-91f4-14084ecbc4a9,Group,4819439d-eab4-4333-a8d3-264f168153fa,Scope 1,,,,,,,,,Yes,Quantitative
+1628b633-fd87-46c9-b5a5-b7b083666ad7,Attribute,b7bb62a7-d507-4e26-91f4-14084ecbc4a9,Total (mtCO2e),,,,,,,,,Yes,Quantitative
+e88b5082-4bde-41ce-92f6-c924074de707,Attribute,b7bb62a7-d507-4e26-91f4-14084ecbc4a9,CO2 (mt),,,,,,,,,Yes,Quantitative
+93565162-d56f-414b-81e4-b8cb84b9627c,Attribute,b7bb62a7-d507-4e26-91f4-14084ecbc4a9,CH4 (mt),,,,,,,,,Yes,Quantitative
+61ee3097-03b6-4fc8-bc70-163561014697,Attribute,b7bb62a7-d507-4e26-91f4-14084ecbc4a9,N2O (mt),,,,,,,,,Yes,Quantitative
+d2541847-e437-41d8-84e8-2f9d7c81290f,Attribute,b7bb62a7-d507-4e26-91f4-14084ecbc4a9,HFCs (mt),,,,,,,,,Yes,Quantitative
+a5634b7f-1f4e-44e0-ab3a-e4c2067a9bea,Attribute,b7bb62a7-d507-4e26-91f4-14084ecbc4a9,PFCs (mt),,,,,,,,,Yes,Quantitative
+90dad824-8bbb-4908-851c-9241eeb5c87a,Attribute,b7bb62a7-d507-4e26-91f4-14084ecbc4a9,SF6 (mt),,,,,,,,,Yes,Quantitative
+42e237ac-a619-45cb-8826-c35f47992050,Group,4819439d-eab4-4333-a8d3-264f168153fa,Scope 2,,,,,,,,,Yes,Quantitative
+0ac9651f-ec6e-4912-b255-b4f3057828b3,Attribute,42e237ac-a619-45cb-8826-c35f47992050,Total (mtCO2e),,,,,,,,,Yes,Quantitative
+9168c9ed-5dc5-4c6f-bef8-3ce700531008,Attribute,42e237ac-a619-45cb-8826-c35f47992050,CO2 (mt),,,,,,,,,Yes,Quantitative
+d0debcb0-3e02-43ad-a24c-264e58158210,Attribute,42e237ac-a619-45cb-8826-c35f47992050,CH4 (mt),,,,,,,,,Yes,Quantitative
+b346d760-288e-4dd8-87b5-d2aca2bd2d72,Attribute,42e237ac-a619-45cb-8826-c35f47992050,N2O (mt),,,,,,,,,Yes,Quantitative
+5f7c2d27-ed78-4128-936b-05a412e057f2,Attribute,42e237ac-a619-45cb-8826-c35f47992050,HFCs (mt),,,,,,,,,Yes,Quantitative
+69cbef81-3ab2-4a25-b54d-5d00aad7d6cf,Attribute,42e237ac-a619-45cb-8826-c35f47992050,PFCs (mt),,,,,,,,,Yes,Quantitative
+f20207fe-8d35-4aa1-a8af-bf240813882a,Attribute,42e237ac-a619-45cb-8826-c35f47992050,SF6 (mt),,,,,,,,,Yes,Quantitative
+6104445e-0239-40fa-9d07-b80d4ce7035a,Group,4819439d-eab4-4333-a8d3-264f168153fa,Scope 3 (Optional),7001f972-19f7-4eb6-8f61-29330a203a35,,,,,,,,No,Quantitative
+65ff45a0-c65a-4bf0-a947-a082ab6756dc,Attribute,6104445e-0239-40fa-9d07-b80d4ce7035a,Total (mtCO2e),,,,,,,,,No,Quantitative
+6af4634c-5895-4bca-b900-190625c14cfe,Attribute,6104445e-0239-40fa-9d07-b80d4ce7035a,CO2 (mt),,,,,,,,,No,Quantitative
+45da4436-b395-484a-aa21-a3bc2f35ef5b,Attribute,6104445e-0239-40fa-9d07-b80d4ce7035a,CH4 (mt),,,,,,,,,No,Quantitative
+c3e725b6-3084-4406-a2e7-26596891ca23,Attribute,6104445e-0239-40fa-9d07-b80d4ce7035a,N2O (mt),,,,,,,,,No,Quantitative
+3c3ffaa4-23e1-490e-bfea-3e330ebd74b0,Attribute,6104445e-0239-40fa-9d07-b80d4ce7035a,HFCs (mt),,,,,,,,,No,Quantitative
+782af145-7cfe-4068-a985-24d2a38efecc,Attribute,6104445e-0239-40fa-9d07-b80d4ce7035a,PFCs (mt),,,,,,,,,No,Quantitative
+122fc5fd-d071-4495-8d8a-296cd551045a,Attribute,6104445e-0239-40fa-9d07-b80d4ce7035a,SF6 (mt),,,,,,,,,No,Quantitative
+ad3855f3-cabd-4da4-b878-369c6422e465,Attribute,bd333b52-f544-4a46-bc16-4496eb04c5d0,Direct CO2 emissions from Biogenic combustion (mtCO2),,,,,,,,,Yes,Quantitative
+1f42a4fd-bedf-4d3a-93e1-61f2b366f4d0,Group,bd333b52-f544-4a46-bc16-4496eb04c5d0,Emissions disaggregated by source types,,,,,,,,,No,Quantitative
+76dc21f8-6015-49dd-8b8c-911dd20e72f1,Group,1f42a4fd-bedf-4d3a-93e1-61f2b366f4d0,Scope 1: Direct Emissions from Owned/Controlled Operations,"4c094eca-bc6d-43e7-947e-232982a1ac39,dd3482cb-9eac-4c0d-911a-6ee81559fd52",,,,,,,,No,Quantitative
+9e77b61b-83dc-4de7-8a00-73872d20ef84,Attribute,76dc21f8-6015-49dd-8b8c-911dd20e72f1,Direct Emissions from Stationary Combustion,,,,,,,,,No,Quantitative
+56279f4a-77cc-4013-bc9f-c5fea2cf545e,Attribute,76dc21f8-6015-49dd-8b8c-911dd20e72f1,Direct Emissions from Mobile Combustion,,,,,,,,,No,Quantitative
+781f1769-9288-462b-b298-9baf3d3045ec,Attribute,76dc21f8-6015-49dd-8b8c-911dd20e72f1,Direct Emissions from Process Sources,,,,,,,,,No,Quantitative
+357b8985-1977-4a9c-9569-78ab08ebba1a,Attribute,76dc21f8-6015-49dd-8b8c-911dd20e72f1,Direct Emissions from Fugitive Sources,,,,,,,,,No,Quantitative
+fcb9b47b-4f79-415e-9e87-04cafc7b856b,Attribute,76dc21f8-6015-49dd-8b8c-911dd20e72f1,Direct Emissions from Agricultural Sources,,,,,,,,,No,Quantitative
+68cf0909-6732-4742-8a04-25f1d14146a7,Group,1f42a4fd-bedf-4d3a-93e1-61f2b366f4d0,"Scope 2: Indirect Emissions from the Use of Purchased Electricity, Steam, Heating and Cooling",8d4779f2-273c-45d6-a864-0c1a45964802,,,,,,,,No,Quantitative
+5b72d748-f430-416b-9cbe-07e3f9622fe2,Attribute,68cf0909-6732-4742-8a04-25f1d14146a7,Indirect Emissions from Purchased/Acquired Electricity,,,,,,,,,No,Quantitative
+deb17e30-e421-41a7-9560-d03735e8a6b6,Attribute,68cf0909-6732-4742-8a04-25f1d14146a7,Indirect Emissions from Purchased/Acquired Steam,,,,,,,,,No,Quantitative
+db991289-af66-4c7c-a43c-7a9e8e31667b,Attribute,68cf0909-6732-4742-8a04-25f1d14146a7,Indirect Emissions from Purchased/Acquired Heating,,,,,,,,,No,Quantitative
+037521f2-f9eb-4f28-8a4f-dbdf164afceb,Attribute,68cf0909-6732-4742-8a04-25f1d14146a7,Indirect Emissions from Purchased/Acquired Cooling,,,,,,,,,No,Quantitative
+f0959dca-8b15-4319-9a30-15e0820d29ad,Group,bd333b52-f544-4a46-bc16-4496eb04c5d0,"Emissions disaggregated by facility (recommended for individual facilities with stationary combustion emissions over 10,000 mtCO2e)",,,,,,,,,No,Quantitative
+a426d68c-8564-4a34-bda9-dee712723a1d,Attribute,f0959dca-8b15-4319-9a30-15e0820d29ad,Facility,,,,,,,,,No,Qualitative
+4bb1f77d-beaf-41e1-8905-936137f16028,Attribute,f0959dca-8b15-4319-9a30-15e0820d29ad,Scope 1 emissions,,,,,,,,,No,Quantitative
+5f1d4303-84c6-41ff-b02f-749b2761b976,Group,bd333b52-f544-4a46-bc16-4496eb04c5d0,Emissions disaggregated by country,,,,,,,,,No,Quantitative
+7294d487-1fe0-4840-b73c-be88cbfd1786,Attribute,5f1d4303-84c6-41ff-b02f-749b2761b976,Country,,,,,,,,,No,Qualitative
+9551ed01-dd42-4da2-a01b-c4992271b01c,Attribute,5f1d4303-84c6-41ff-b02f-749b2761b976,Emissions (specify Scope),,,,,,,,,No,Quantitative
+07bc4d1a-b113-471d-ad2f-059e4a95ab8c,Attribute,bd333b52-f544-4a46-bc16-4496eb04c5d0,"Emissions attributable to own generation of electricity, heat, or steam that is sold or transferred to another organization",,,,,,,,,No,Quantitative
+1ace20a5-aa91-419b-8cf3-8a40ab494766,Attribute,bd333b52-f544-4a46-bc16-4496eb04c5d0,"Emissions attributable to the generation of electricity, heat or steam that is purchased for re-sale to non-end users",,,,,,,,,No,Quantitative
+4376d642-efd0-472b-ae0d-6370a3cf992e,Attribute,bd333b52-f544-4a46-bc16-4496eb04c5d0,"Emissions from GHGs not covered by the Kyoto Protocol (e.g., CFCs, NOx,)",,,,,,,,,No,Quantitative
+09a2eb08-1174-498e-aad0-08de86375ae3,Attribute,bd333b52-f544-4a46-bc16-4496eb04c5d0,"Information on the causes of emissions changes that did not trigger a base year emissions recalculation (e.g., process changes, efficiency improvements, plant closures)",,,,,,,,,No,Qualitative
+5a98dad2-86fc-424e-96a4-639c7185abed,Attribute,bd333b52-f544-4a46-bc16-4496eb04c5d0,"GHG emissions data for all years between the base year and the reporting year (including details of and reasons for recalculations, if appropriate)",,,,,,,,,No,Quantitative
+8877c92c-cb7d-46d6-8884-13f535dfc80e,Attribute,bd333b52-f544-4a46-bc16-4496eb04c5d0,"Relevant ratio performance indicators (e.g. emissions per kilowatt-hour generated, sales, etc.)",,,,,,,,,No,Quantitative
+56caf32b-ab27-4f6a-a717-11451b8e4a91,Attribute,bd333b52-f544-4a46-bc16-4496eb04c5d0,An outline of any GHG management/reduction programs or strategies,,,,,,,,,No,Qualitative
+7f567c97-ea53-4a72-a479-4703c88af691,Object,3acf07a3-c428-468e-82a5-f142c0606356,Base Year,,,,,,,,,,
+cc99fab6-d4fd-4ab5-85b9-4b4eab8a4433,Attribute,7f567c97-ea53-4a72-a479-4703c88af691,Year chosen as base year,,,,,,,,,Yes,Qualitative
+a73c031a-024d-4ed6-a388-e70b80093e4d,Attribute,7f567c97-ea53-4a72-a479-4703c88af691,Clarification of company-determined policy for making base year emissions recalculations,,,,,,,,,Yes,Qualitative
+8b659d08-7732-43c0-a7a6-420179f55918,Attribute,7f567c97-ea53-4a72-a479-4703c88af691,Context for any significant emissions changes that trigger base year emissions recalculations,,,,,,,,,Yes,Qualitative
+9908acec-1074-4df5-aab0-518f57c78700,Group,7f567c97-ea53-4a72-a479-4703c88af691,Base year emissions,dfa9fd35-f1fc-4f64-842c-c6eb018bc65b,,,,,,,,Yes,Quantitative
+81d7a78a-ee1c-4ded-a50f-dadb7793585d,Group,9908acec-1074-4df5-aab0-518f57c78700,Scope 1,,,,,,,,,Yes,Quantitative
+86723afc-c6e0-41e2-be47-6bb001e09a62,Attribute,81d7a78a-ee1c-4ded-a50f-dadb7793585d,Total (mtCO2e),,,,,,,,,Yes,Quantitative
+b48f0fa6-ce3f-40bc-8efe-f8d88c5c8877,Attribute,81d7a78a-ee1c-4ded-a50f-dadb7793585d,CO2 (mt),,,,,,,,,Yes,Quantitative
+f37edd2f-76f3-47be-bb70-b3268978f520,Attribute,81d7a78a-ee1c-4ded-a50f-dadb7793585d,CH4 (mt),,,,,,,,,Yes,Quantitative
+8cfb43c1-56f5-4a2d-8b8d-9689fea88f67,Attribute,81d7a78a-ee1c-4ded-a50f-dadb7793585d,N2O (mt),,,,,,,,,Yes,Quantitative
+95869d6d-574d-4d9c-889e-9d40eb6c58fe,Attribute,81d7a78a-ee1c-4ded-a50f-dadb7793585d,HFCs (mt),,,,,,,,,Yes,Quantitative
+29447575-0aeb-41b0-b35c-fe68553c62d5,Attribute,81d7a78a-ee1c-4ded-a50f-dadb7793585d,PFCs (mt),,,,,,,,,Yes,Quantitative
+fb850785-73a2-4e44-84c7-b8232ad318aa,Attribute,81d7a78a-ee1c-4ded-a50f-dadb7793585d,SF6 (mt),,,,,,,,,Yes,Quantitative
+23e26fd4-d007-4393-b94a-4dc5a99cc053,Group,9908acec-1074-4df5-aab0-518f57c78700,Scope 2,,,,,,,,,Yes,Quantitative
+837f711f-32ea-4efa-b477-7c8fe404e453,Attribute,23e26fd4-d007-4393-b94a-4dc5a99cc053,Total (mtCO2e),,,,,,,,,Yes,Quantitative
+0ca318e0-5f01-41c8-b94f-9c14441b5ab0,Attribute,23e26fd4-d007-4393-b94a-4dc5a99cc053,CO2 (mt),,,,,,,,,Yes,Quantitative
+7fd8ef2a-6e98-433a-85be-4e07c68d8bb4,Attribute,23e26fd4-d007-4393-b94a-4dc5a99cc053,CH4 (mt),,,,,,,,,Yes,Quantitative
+7b4916b3-750a-48f0-94f1-6f2b6e1b03e4,Attribute,23e26fd4-d007-4393-b94a-4dc5a99cc053,N2O (mt),,,,,,,,,Yes,Quantitative
+cf02d1cd-9d6a-4d8b-809f-f51abd5b6097,Attribute,23e26fd4-d007-4393-b94a-4dc5a99cc053,HFCs (mt),,,,,,,,,Yes,Quantitative
+5123bd08-cfd7-493c-a127-2138bd3f48c6,Attribute,23e26fd4-d007-4393-b94a-4dc5a99cc053,PFCs (mt),,,,,,,,,Yes,Quantitative
+e27f6629-3408-4f3a-8ae9-202996b8ed94,Attribute,23e26fd4-d007-4393-b94a-4dc5a99cc053,SF6 (mt),,,,,,,,,Yes,Quantitative
+184f66ff-ac02-4e9f-851a-ce8dcb759b0c,Group,9908acec-1074-4df5-aab0-518f57c78700,Scope 3 (Optional),,,,,,,,,No,Quantitative
+96138bb2-a100-40ad-92c4-589152b6715b,Attribute,184f66ff-ac02-4e9f-851a-ce8dcb759b0c,Total (mtCO2e),,,,,,,,,No,Quantitative
+1d5f8c1c-7ab8-4ff0-834f-001e9be7e4ea,Attribute,184f66ff-ac02-4e9f-851a-ce8dcb759b0c,CO2 (mt),,,,,,,,,No,Quantitative
+20c1b341-b7d5-46e6-aaae-1f156e256428,Attribute,184f66ff-ac02-4e9f-851a-ce8dcb759b0c,CH4 (mt),,,,,,,,,No,Quantitative
+6f3d3bb2-dd1e-4432-bfbb-a927e09f1af2,Attribute,184f66ff-ac02-4e9f-851a-ce8dcb759b0c,N2O (mt),,,,,,,,,No,Quantitative
+0c40a8d7-806f-4171-8e87-74bc1e3bf6d1,Attribute,184f66ff-ac02-4e9f-851a-ce8dcb759b0c,HFCs (mt),,,,,,,,,No,Quantitative
+a54a9920-1b83-4293-828e-4bf72af2ceec,Attribute,184f66ff-ac02-4e9f-851a-ce8dcb759b0c,PFCs (mt),,,,,,,,,No,Quantitative
+5954281b-63e9-487b-8cae-f7b87a28c35c,Attribute,184f66ff-ac02-4e9f-851a-ce8dcb759b0c,SF6 (mt),,,,,,,,,No,Quantitative
